@@ -1,5 +1,5 @@
 # Fertility-histories-in-four-UK-cohort-studies
-This code is to accompany the deposit of derived fertility variables for four UK cohort studies: 
+This Stata code is to accompany the deposit of derived fertility variables for four UK cohort studies: 
 
 •	1946 MRC National Survey of Health and Development (NSHD)
 
