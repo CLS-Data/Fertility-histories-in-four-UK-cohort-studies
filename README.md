@@ -23,11 +23,11 @@ The derived fertility data have been deposited with the [**UK Data Service**](ht
 
 | Domain         | Example of variables                               |
 | -------------- | -------------------------------------- |
-| Fertility      | biologial children (whether has any, number, number of girls and boys, age of eldest and youngest, number of children with a previous partner, number living in household, number living outside household )             |
-|                |  non-biological (whether has any, number, number of girls and boys, age of eldest and youngest)   |
+| Fertility      | biologial children (whether has any, number, number of girls and boys, age of eldest and youngest, number of children with a previous partner, number living in household, number living outside household )   |
+|                |  non-biological children (whether has any, number, number of girls and boys, age of eldest and youngest)   |
 |Partnership           |  whether partner in houshold, marital status   |
 
-Further details about the variables and can be found in the user guide for the deposited data which can be found here [online link to guide to be inserted when on CLS website].
+Further details about the full set of variables available can be found in the user guide for the deposited data [online link to guide to be inserted when on CLS website].
 
 ---
 
