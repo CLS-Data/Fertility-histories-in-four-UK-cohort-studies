@@ -32,7 +32,7 @@ Further details about the full set of variables available can be found in the us
 ---
 
 ## Syntax and data availability
-- *Source data:* Download raw data for NCDS, BCS70, and Next Steps from the  [**UK Data Service**](https://ukdataservice.ac.uk/). For the NSHD, raw data should be requested from [**MRC Unit for Lifelong Health and Ageing at UCL (LHA)**](https://skylark.ucl.ac.uk/NSHD/data). See the the Stata code for NSHD for the variables to be requested. Place all raw data files in a folder on your computer.
+- *Source data:* Download raw data for NCDS, BCS70, and Next Steps from the  [**UK Data Service**](https://ukdataservice.ac.uk/). For the NSHD, raw data should be requested from [**MRC Unit for Lifelong Health and Ageing at UCL (LHA)**](https://nshd.mrc.ac.uk/data-sharing/). See the the Stata code for NSHD for the variables to be requested. Place all raw data files in a folder on your computer.
   
 - *Syntax:* Each of the code files (one for each cohorts) reads those data files and produces the datasets.    
 - *Derived datasets:* Available to download from the [**UK Data Service**](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9418).
