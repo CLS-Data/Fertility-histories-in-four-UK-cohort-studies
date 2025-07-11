@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This repository provides Stata code that harmonises fertility variables in four British cohort studies:
+This repository provides Stata code that derives harmonised fertility variables in four British cohort studies:
 
 •	1946 MRC National Survey of Health and Development (NSHD)
 
@@ -15,7 +15,7 @@ This repository provides Stata code that harmonises fertility variables in four 
 
 •	1989/1990 Next Steps
 
-There is a code file for each cohort study. The derived data has been deposited with the [**UK Data Service**](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9418). The code enables researchers to track how the data have been derived as well as to adapt the code for their own use such as deriving additional variables.   
+The derived fertility data have been deposited with the [**UK Data Service**](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9418). The code provided here enables researchers to track how the data have been derived as well as to adapt the code for their own use such as deriving additional variables. There is a code file for each cohort.   
 
 ---
 
