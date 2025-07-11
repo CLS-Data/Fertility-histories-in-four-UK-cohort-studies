@@ -21,7 +21,7 @@ There is a code file for each cohort study. The derived data has been deposited 
 
 ## Included variable domains
 
-| Domain         | Variables                               |
+| Domain         | Example of variables                               |
 | -------------- | -------------------------------------- |
 | Fertility      | biologial children (whether has any, number, number of girls and boys, age of eldest and youngest, number of children with a previous partner, number living in household, number living outside household )             |
 |                |  non-biological (whether has any, number, number of girls and boys, age of eldest and youngest)   |
@@ -32,7 +32,7 @@ Further details about the variables and can be found in the user guide for the d
 ---
 
 ## Syntax and data availability
-- *Source data:* Download raw data for NCDS, BCS70, and Next Steps from the  [**UK Data Service**](https://ukdataservice.ac.uk/). For the NSHD raw data should be requested from [**MRC Unit for Lifelong Health and Ageing at UCL (LHA)**](https://skylark.ucl.ac.uk/NSHD/data). See the the Stata code for NSHD for the variables to be requested. Place all raw data files in a folder on your computer.
+- *Source data:* Download raw data for NCDS, BCS70, and Next Steps from the  [**UK Data Service**](https://ukdataservice.ac.uk/). For the NSHD, raw data should be requested from [**MRC Unit for Lifelong Health and Ageing at UCL (LHA)**](https://skylark.ucl.ac.uk/NSHD/data). See the the Stata code for NSHD for the variables to be requested. Place all raw data files in a folder on your computer.
   
 - *Syntax:* Each of the code files (one for each cohorts) reads those data files and produces the datasets.    
 - *Derived datasets:* Available to download from the [**UK Data Service**](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9418).
