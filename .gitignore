@@ -1,0 +1,57 @@
+# ---------------------------------------------------------------------
+# .gitignore template for CLS syntax repositories
+#
+# Purpose: keep survey data, derived datasets etc 
+# or other sensitive files OUT of version control.  
+# Folders or files contained in this list will not be tracked by GitHub  
+# ---------------------------------------------------------------------
+
+# 1) Ignore entire data directories
+#    – Users place raw files in data/raw/
+#    – Scripts write outputs to data/derived/
+data/*
+data/raw/*
+data/derived/*
+
+# 2) Common statistical-package data files (Stata, SPSS, SAS, R, Arrow)
+*.dta       # Stata
+*.sav       # SPSS
+*.sas7bdat  # SAS
+*.xpt       # SAS transport files
+*.rds       # R single-object files
+*.RData     # R workspaces
+*.feather   # Feather/Arrow
+*.parquet   # Parquet columnar files
+
+# 3) Other file types 
+*.csv 
+*.tab
+*.xlsx
+*.xls
+*.ods
+
+# 4) Compressed archives 
+*.zip
+*.gz
+*.bz2
+*.xz
+*.7z
+*.rar
+
+# 5) Database dumps and binaries
+*.sql
+*.sqlite
+*.db
+*.mdb
+*.accdb
+
+# 6) Logs, caches, temporary or IDE artefacts
+*.log
+*.tmp
+*.cache
+.Rhistory
+.Rproj.user/
+
+# ---------------------------------------------------------------------
+# End of template
+# ---------------------------------------------------------------------
