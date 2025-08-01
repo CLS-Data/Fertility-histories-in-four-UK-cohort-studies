@@ -27,7 +27,7 @@ The derived fertility data have been deposited with the [**UK Data Service**](ht
 |                |  non-biological children (whether has any, number, number of girls and boys, age of eldest and youngest)   |
 |Partnership           |  whether partner in houshold, marital status   |
 
-Further details about the full set of variables available can be found in the user guide for the deposited data [online link to guide to be inserted when on CLS website].
+Further details about the full set of variables available can be found in the [**user guide**](https://cls.ucl.ac.uk/wp-content/uploads/2025/07/cohorts_harmonised_fertility_user_guide.pdf) for the deposited data.
 
 ---
 
